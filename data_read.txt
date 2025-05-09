@@ -1,6 +1,3 @@
-//data_transform
+//data_read
 
-ejecutar regla_1: leer csv
-ejecutar regla_2
-ejecutar regla_3 ordenar ascendente
-ejecutar regla_5
+lectura de proceso
