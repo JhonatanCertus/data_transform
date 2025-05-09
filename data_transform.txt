@@ -3,5 +3,5 @@
 ejecutar regla_1: leer csv
 ejecutar regla_2
 ejecutar regla_3 ordenar ascendente
-ejecutar regla_4: reempplazar
+ejecutar regla_4:reemplazar
 ejecutar regla_5
